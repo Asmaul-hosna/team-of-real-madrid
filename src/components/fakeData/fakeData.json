@@ -1,0 +1,52 @@
+[{
+    "image": "https://www.realmadrid.com/img/vertical_380px/ramos_380x501_20201203095830.jpg",
+     "name": "Sergio ramos",
+     "salary": 1500000,
+     "id": "Gs01"
+   }, {
+    
+     "image": "https://www.realmadrid.com/img/vertical_380px/varane_380x501_20201203095831.jpg",
+     "name": "Varane",
+     "salary": 4000000,
+     "id": "Gs02"
+   }, {
+     "image": "https://www.realmadrid.com/img/vertical_380px/nacho_380x501_20201203095831.jpg",
+     "name": "Nacho",
+     "salary": 80000000,
+     "id": "Gs03"
+   }, {
+     "image": "https://www.realmadrid.com/img/vertical_380px/cristiano_550x650.jpg",
+     "name": "Ronaldo",
+     "salary": 31000000,
+     "id": "Gs04"
+   }, {
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXq1EbPHfs-0HKfIBMU3iUR15LVEkOietJ0g&usqp=CAU",
+     "name": "Kroos",
+     "salary": 1000000,
+     "id": "Gs05"
+   }, {
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJcnzU_FgEVcXwz1pkSPtPZXzSPuVJ9k7nzg&usqp=CAU",
+     "name": "Benzema",
+     "salary": 8000000,
+     "id": "Gs06"
+   }, {
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMZuqs8aOtcovQuN_QGaf5LXMblI042j4YgQ&usqp=CAU",
+     "name": "James",
+     "salary": "3900000",
+     "id": "Gs07"
+   }, {
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaqm640ON-AyFCgSoSYpEZtc5Hyi09qFUVUg&usqp=CAU",
+     "name": "Bale",
+     "salary": 15000000,
+     "id": "Gs08"
+   }, {
+     "image": "https://www.realmadrid.com/img/vertical_380px/marcelo_380x501_20201203095832.jpg",
+     "name": "Marcelo",
+     "salary": 7000000,
+     "id": "Gs09"
+   }, {
+     "image": "https://www.realmadrid.com/img/vertical_380px/13_casilla_380x501_20180924112506.jpg",
+     "name": "K.casilla",
+     "salary": 600000,
+     "id": "Gs10"
+   }]

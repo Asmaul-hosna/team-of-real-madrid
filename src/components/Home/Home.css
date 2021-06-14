@@ -1,0 +1,13 @@
+.home-container{
+    display:flex;
+ 
+}
+.player-container{
+    width:40%;
+    margin-left:20px;
+    margin-right: 10px;
+    border-right: 1px solid white;
+    
+
+}
+  
